@@ -51,6 +51,21 @@ namespace DecTech.Tests
             Assert.Equal(4.20M, actual);
         }
 
+        [Fact]
+        public void Check_Three_Milks_Same_As_Four_Test()
+        {
+            Butter butter = new Butter(0, 0.80M);
+            Bread bread = new Bread(0, 1.00M, butter);
+            Milk milk = new Milk(3, 1.15M);
+
+            var actual_3Milks = butter.GetOffers() + bread.GetOffers() + milk.GetOffers();
+
+            milk.Count = 4;
+            var actual_4Milks = butter.GetOffers() + bread.GetOffers() + milk.GetOffers();
+
+            Assert.Equal(actual_3Milks, actual_4Milks);
+        }
+
 
         [Fact]
         public void Scenario_1_Test()
