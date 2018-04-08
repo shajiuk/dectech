@@ -1,0 +1,16 @@
+C:\Projects\Tests\DecTech\DecTech.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Projects\Tests\DecTech\DecTech.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Projects\Tests\DecTech\DecTech.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Projects\Tests\DecTech\DecTech.Tests\bin\Debug\netcoreapp2.0\DecTech.Tests.deps.json
+C:\Projects\Tests\DecTech\DecTech.Tests\bin\Debug\netcoreapp2.0\DecTech.Tests.runtimeconfig.json
+C:\Projects\Tests\DecTech\DecTech.Tests\bin\Debug\netcoreapp2.0\DecTech.Tests.runtimeconfig.dev.json
+C:\Projects\Tests\DecTech\DecTech.Tests\bin\Debug\netcoreapp2.0\DecTech.Tests.dll
+C:\Projects\Tests\DecTech\DecTech.Tests\bin\Debug\netcoreapp2.0\DecTech.Tests.pdb
+C:\Projects\Tests\DecTech\DecTech.Tests\obj\Debug\netcoreapp2.0\DecTech.Tests.csprojResolveAssemblyReference.cache
+C:\Projects\Tests\DecTech\DecTech.Tests\obj\Debug\netcoreapp2.0\DecTech.Tests.csproj.CoreCompileInputs.cache
+C:\Projects\Tests\DecTech\DecTech.Tests\obj\Debug\netcoreapp2.0\DecTech.Tests.AssemblyInfoInputs.cache
+C:\Projects\Tests\DecTech\DecTech.Tests\obj\Debug\netcoreapp2.0\DecTech.Tests.AssemblyInfo.cs
+C:\Projects\Tests\DecTech\DecTech.Tests\obj\Debug\netcoreapp2.0\DecTech.Tests.dll
+C:\Projects\Tests\DecTech\DecTech.Tests\obj\Debug\netcoreapp2.0\DecTech.Tests.pdb
+C:\Projects\Tests\DecTech\DecTech.Tests\bin\Debug\netcoreapp2.0\DecTech.dll
+C:\Projects\Tests\DecTech\DecTech.Tests\bin\Debug\netcoreapp2.0\DecTech.pdb
