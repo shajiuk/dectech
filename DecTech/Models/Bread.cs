@@ -21,12 +21,17 @@ namespace DecTech.Models
 
         public decimal GetOffers()
         {
+            var total = 0.0M;
             var wholeCount = (_item != null) ? _item.Count / 2 : 0;
 
             var offer = wholeCount * Price / 2;
-            var numBreadFullPrice = Count - wholeCount;
 
-            var total = numBreadFullPrice * Price + offer;
+            if (Count >= wholeCount)
+            {
+                var numBreadFullPrice = Count - wholeCount;
+
+                total = numBreadFullPrice * Price + offer;
+            }
 
             return total;
         }
