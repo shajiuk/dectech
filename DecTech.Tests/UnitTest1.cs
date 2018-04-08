@@ -8,20 +8,11 @@ namespace DecTech.Tests
         [Fact]
         public void Bread_Basic_Test()
         {
-            //Butter butter = new Butter()
-            //{
-            //    Count = 1,
-            //    Price = 1.0M
-            //};
-
-            //Bread bread = new Bread(butter)
-            //{
-            //    Count =1,
-            //    Price = 1.0M
-            //};
-
-            //var actual = bread.GetOffers();
-            //Assert.Equal(1.0M, actual);
+            Butter butter = new Butter(1, 1.0M);
+            Bread bread = new Bread(1, 0.80M, butter);
+            
+            var actual = bread.GetOffers();
+            Assert.Equal(0.80M, actual);
         }
     }
 }
